@@ -1,4 +1,4 @@
-const Signin = () => {
+export const Signin = () => {
     return <>
         <div className="flex justify-around bg-pink-200 items-center h-screen">
             <div>
@@ -27,4 +27,3 @@ const Signin = () => {
     </> 
 }
 
-export default Signin
